@@ -1,0 +1,21 @@
+{
+  "name": "sample-http",
+  "version": "0.0.1",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "body-parser": "^1.18.3",
+    "busboy": "^0.3.0",
+    "csvtojson": "^2.0.8",
+    "d3-dsv": "^1.0.10",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "iconv-js": "^0.3.5",
+    "lodash": "^4.17.11",
+    "mathjs": "^5.4.0",
+    "mysql2": "^1.6.4",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "xlsx": "^0.14.1"
+  }
+}
